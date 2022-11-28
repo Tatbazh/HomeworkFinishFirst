@@ -20,6 +20,7 @@ string[] FindElementFromArray(string[] words)
     }
     return words2;
 }
+// string[] words = { "1234", "1567", "-2", "computer science" };
 // string[] words = { "Russia", "Denmark", "Kazan" };
 string[] words = { "Hello", "2", "world", ":-)" };
 Console.Write(String.Join(" ", words));

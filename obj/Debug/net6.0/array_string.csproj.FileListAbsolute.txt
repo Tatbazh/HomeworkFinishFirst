@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\bin\Debug\net6.0\array_string.exe
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\bin\Debug\net6.0\array_string.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\bin\Debug\net6.0\array_string.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\bin\Debug\net6.0\array_string.dll
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\bin\Debug\net6.0\array_string.pdb
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\array_string.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\array_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\array_string.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\array_string.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\array_string.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\array_string.dll
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\refint\array_string.dll
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\array_string.pdb
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\array_string.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lesson_CShap\lesson_finish_CSh\array_string\obj\Debug\net6.0\ref\array_string.dll
